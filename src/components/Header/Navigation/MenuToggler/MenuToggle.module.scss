@@ -1,0 +1,12 @@
+.MenuToggle {
+  position: relative;
+  cursor: pointer;
+  color: #fff;
+  transition: opacity, left .22s ease-in;
+  z-index: 100;
+  font-size: 36px;
+  padding-top: 25px;
+  &:hover {
+    opacity: .7;
+  }
+}

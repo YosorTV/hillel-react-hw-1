@@ -1,0 +1,71 @@
+.Header {
+	height: 100vh;
+	width: 100%;
+
+	.Wrapper {
+		background: url('../../assets/img/bg.jpg') no-repeat;
+		background-size: cover;
+		height: 100%;
+		width: 100%;
+		z-index: 10;
+		display: flex;
+		flex-direction: column;
+		align-items:center;
+
+		.Navigation {
+			display: flex;
+			justify-content: space-between;
+			align-items: baseline;
+			width: 100%;
+			max-width: 1200px;
+			height: 15%;
+			padding-top: 25px;
+
+			h1{
+				color:#f3f3f3;
+				letter-spacing: 4px;
+				cursor: pointer;
+				font-family:'Montserrat', sans-serif;
+				font-size: 2rem;
+				text-transform: uppercase;
+				transition: .2s all ease;
+				&:hover{
+					color:#2f52a3;
+				}
+			}
+
+			i {
+				font-size: 1.5rem;
+				color: #f3f3f3;
+				cursor: pointer;
+			}
+		}
+
+		.HeaderCopy{
+			display: flex;
+			justify-content: center;
+			flex-direction: column;
+			align-items: center;
+			padding-top: 350px;
+
+			h3{
+				color:#2f52a3;
+				font-size: 8rem;
+				font-family:'Montserrat', sans-serif;
+				padding: 0;
+				margin: 0;
+			}
+
+			p{
+				color:#fff;
+				font-family:'Montserrat', sans-serif;
+				font-size: 2rem;
+			}
+		}
+	}
+}
+
+.navWrapper {
+	width: 100%;
+	padding-left: 200px;
+}

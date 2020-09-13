@@ -1,0 +1,41 @@
+.NavList {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 80%;
+  max-width: 180px;
+  padding: 20px 10px;
+  box-sizing: border-box;
+  background: #fff;
+  transform: translateX(0px);
+  transition: transform .22s ease-in;
+  z-index: 90;
+
+  ul {
+    list-style: none;
+    padding-top: 25px;
+
+    li {
+      margin-bottom: 15px;
+    }
+  }
+}
+
+p {
+  color: #363d54;
+  font-size: 30px;
+  position: relative;
+  padding: 0 20px 10px 20px;
+  cursor: pointer;
+  transition: opacity .3s;
+
+  &:hover,
+  &.active {
+    opacity: .7;
+  }
+}
+
+.close {
+  transform: translateX(-300px);
+}

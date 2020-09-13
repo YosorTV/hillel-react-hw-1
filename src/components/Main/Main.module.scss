@@ -1,0 +1,40 @@
+.Main {
+	width: 100%;
+	height: 100%;
+	padding: 2rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+
+	figure {
+		height: 100%;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		cursor: pointer;
+		align-items: baseline;
+		transition: all .3s ease-in-out;
+
+		&:hover {
+			transform: scale(.95);
+		}
+
+		img {
+			object-fit: cover;
+			border-radius: 8px;
+		}
+
+		figcaption {
+			padding-top: 25px;
+			padding-bottom: 50px;
+
+			h3 {
+				color: rgb(144, 131, 125);
+				letter-spacing: 2px;
+				font-family: 'Montserrat', sans-serif;
+			}
+		}
+	}
+}
