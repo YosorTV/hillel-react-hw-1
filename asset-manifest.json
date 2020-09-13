@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hillel-react-hw-1/static/css/main.d0ee8c21.chunk.css",
+    "main.js": "/hillel-react-hw-1/static/js/main.7e23860a.chunk.js",
+    "main.js.map": "/hillel-react-hw-1/static/js/main.7e23860a.chunk.js.map",
+    "runtime-main.js": "/hillel-react-hw-1/static/js/runtime-main.89c32708.js",
+    "runtime-main.js.map": "/hillel-react-hw-1/static/js/runtime-main.89c32708.js.map",
+    "static/js/2.e5aa64a0.chunk.js": "/hillel-react-hw-1/static/js/2.e5aa64a0.chunk.js",
+    "static/js/2.e5aa64a0.chunk.js.map": "/hillel-react-hw-1/static/js/2.e5aa64a0.chunk.js.map",
+    "index.html": "/hillel-react-hw-1/index.html",
+    "precache-manifest.4f05ded3fd5ce9536969348e746b8d43.js": "/hillel-react-hw-1/precache-manifest.4f05ded3fd5ce9536969348e746b8d43.js",
+    "service-worker.js": "/hillel-react-hw-1/service-worker.js",
+    "static/css/main.d0ee8c21.chunk.css.map": "/hillel-react-hw-1/static/css/main.d0ee8c21.chunk.css.map",
+    "static/js/2.e5aa64a0.chunk.js.LICENSE.txt": "/hillel-react-hw-1/static/js/2.e5aa64a0.chunk.js.LICENSE.txt",
+    "static/media/Header.module.scss": "/hillel-react-hw-1/static/media/bg.1734a8c8.jpg",
+    "static/media/img-1.jpg": "/hillel-react-hw-1/static/media/img-1.08129180.jpg",
+    "static/media/img-2.jpg": "/hillel-react-hw-1/static/media/img-2.cc8eecc8.jpg",
+    "static/media/img-3.jpg": "/hillel-react-hw-1/static/media/img-3.c56567ae.jpg",
+    "static/media/img-4.jpg": "/hillel-react-hw-1/static/media/img-4.ff37677d.jpg",
+    "static/media/img-5.jpg": "/hillel-react-hw-1/static/media/img-5.a700596c.jpg",
+    "static/media/img-6.jpg": "/hillel-react-hw-1/static/media/img-6.b4b4c8dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c32708.js",
+    "static/js/2.e5aa64a0.chunk.js",
+    "static/css/main.d0ee8c21.chunk.css",
+    "static/js/main.7e23860a.chunk.js"
+  ]
+}
